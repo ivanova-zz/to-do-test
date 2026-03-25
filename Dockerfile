@@ -1,4 +1,3 @@
-# Используем официальный легкий образ Python
 FROM python:3.12-slim
 
 WORKDIR /app
